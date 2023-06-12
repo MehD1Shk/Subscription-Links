@@ -2,7 +2,7 @@
 ## Just Copy these links to your client to use :
 Subscription 1 : https://raw.githubusercontent.com/MehD1Shk/Subscription-Links/main/sublist1.txt
 
-###test_subs:
+test_subs:
 test sub 0: https://raw.githubusercontent.com/MehD1Shk/Subscription-Links/main/test_configs_0.txt
 
 test sub 1: https://raw.githubusercontent.com/MehD1Shk/Subscription-Links/main/test_configs_1.txt
