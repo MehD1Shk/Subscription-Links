@@ -1,6 +1,6 @@
-vless://1b7110d8-26c7-420e-98c9-6bf82012bb73@baguette.adaspolo.online:443?type=grpc&security=tls&mode=gun&serviceName=&fp=firefox&sni=baguette.adaspolo.online&alpn=h2,http/1.1#baguette-grpc
-vless://95db402b-6288-4241-8810-0be7d317401d@ritalin.adaspolo.online:2087?type=grpc&security=tls&mode=gun&serviceName=&fp=chrome&sni=ritalin.adaspolo.online&alpn=h2,http/1.1#ritalin-grpc
+vless://1b7110d8-26c7-420e-98c9-6bf82012bb73@baguette.madariminjazahmatmikeshim.shop:443?type=grpc&security=tls&mode=gun&serviceName=&fp=firefox&sni=baguette.madariminjazahmatmikeshim.shop&alpn=h2,http/1.1#baguette-grpc
+vless://70548702-bfe9-4a51-b31e-2a7de2949af8@rita.baghalipolobagardan.shop:2096?security=tls&sni=rita.baghalipolobagardan.shop&alpn=h2,http/1.1&fp=firefox&type=grpc&encryption=none#vyas-grpc
+vless://95db402b-6288-4241-8810-0be7d317401d@ritalin.dobareumadam.shop:2087?security=tls&sni=ritalin.dobareumadam.shop&alpn=h2,http/1.1&fp=firefox&type=grpc&encryption=none#ritalin-grpc
 vless://e8dab97e-80c9-4479-b4ae-ac9aa1d7ea48@venus.adaspolo.online:443?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=venus.adaspolo.online#venus-grpc
-vless://c7de159d-3153-46e2-be5e-807656950b9a@rita.adaspolo.online:2096?type=grpc&security=tls&mode=gun&serviceName=&fp=chrome&sni=rita.adaspolo.online&alpn=h2,http/1.1#vyas-grpc
 vless://9938c9b0-e7ae-47e3-a62e-579cce8a9613@jina.adaspolo.online:443?type=grpc&serviceName=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=jina.adaspolo.online#Aeza%23InterimServer-grpc
 
